@@ -4,6 +4,6 @@ use macro_lol::implication;
 
 fn main() {
 	implication! {
-		a || x || y  ==> niggers()
+		a || x || y  ==> test_fn()
 	}
 }
