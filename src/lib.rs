@@ -63,5 +63,5 @@ pub fn implication(item: TokenStream) -> TokenStream {
 
 	dbg!(imp);
 
-	todo!("vakaras suck my dick");
+	todo!("vakaras brok");
 }
